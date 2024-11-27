@@ -1,3 +1,5 @@
+// prog to find longest word in a given sentence?
+
 function findLongestWord(sentence) {
     const words = sentence.split(" ");
 
