@@ -1,7 +1,6 @@
 // Write an Example of Shallow copy and Deep copy.
 
-
-// ! Shallow Copy concept
+// ! Shallow Copy 
 
 const shallowOriginal = {
     name: "Alice",
@@ -24,7 +23,7 @@ console.log('shallowCopy', shallowCopy);
 console.log("----------------------------------------------------------");
 
 
-//! Deep Copy concept
+//! Deep Copy
 
 const deepOriginal = {
     name: "Alice",
