@@ -1,4 +1,4 @@
-// Write a program to calculating the minimum number of notes required for a given withdrawal amount at an ATM?
+// 3. Write a program to calculating the minimum number of notes required for a given withdrawal amount at an ATM?
 
 function MinNotes(amt) {
     let notes = [500, 200, 100, 50, 20, 10, 5];

@@ -1,3 +1,5 @@
+// 4. How to check whether a sting is palindrome or not?
+
 function isPalindrome(str) {
 
     // Convert the string to lowercase and remove non-alphanumeric characters
